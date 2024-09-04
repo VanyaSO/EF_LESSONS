@@ -129,3 +129,12 @@
 /Users/ivanushachov/Desktop/STEP/EFCore/CW/lesson_08_28/lesson_09_02/obj/Debug/net8.0/lesson_09_02.pdb
 /Users/ivanushachov/Desktop/STEP/EFCore/CW/lesson_08_28/lesson_09_02/obj/Debug/net8.0/lesson_09_02.genruntimeconfig.cache
 /Users/ivanushachov/Desktop/STEP/EFCore/CW/lesson_08_28/lesson_09_02/obj/Debug/net8.0/ref/lesson_09_02.dll
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.csproj.AssemblyReference.cache
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.sourcelink.json
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.dll
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/refint/lesson_09_02.dll
+/Users/ivanushachov/Desktop/STEP/EFCore/EF_LESSONS/lesson_09_02/obj/Debug/net8.0/lesson_09_02.pdb
