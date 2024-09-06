@@ -44,8 +44,7 @@ class Program
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
         
-            optionsBuilder.UseSqlServer(
-                "Server=localhost;Database=CW;User=sa;Password=admin@Admin87457; TrustServerCertificate = True;");
+            optionsBuilder.UseSqlServer("Server=localhost;Database=CW;User=sa;Password=admin@Admin87457; TrustServerCertificate = True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

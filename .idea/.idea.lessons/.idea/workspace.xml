@@ -12,152 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a790a2af-4fd1-46c7-a043-78e90938f2d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/dataSources/a52f9f09-68ce-46fd-9d97-08d3aec86b24/storage_v2/_src_/database/CW.dAgAAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/dataSources/a52f9f09-68ce-46fd-9d97-08d3aec86b24/storage_v2/_src_/database/CW.dAgAAA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/dataSources/a52f9f09-68ce-46fd-9d97-08d3aec86b24/storage_v2/_src_/database/master.YiqNvw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/dataSources/a52f9f09-68ce-46fd-9d97-08d3aec86b24/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/dataSources/a52f9f09-68ce-46fd-9d97-08d3aec86b24/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_02/obj/Debug/net8.0/lesson_09_02.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/Program1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Azure.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Azure.Identity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Humanizer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.Options.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Identity.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/Mono.TextTemplating.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.CodeDom.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Composition.AttributedModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Composition.Convention.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Composition.Hosting.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Composition.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Composition.TypedParts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.IO.Pipelines.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Memory.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Security.Permissions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Text.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/System.Windows.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/lesson_09_04" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/lesson_09_04.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/lesson_09_04.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/lesson_09_04.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/lesson_09_04.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_0.9AD406D3.Up2Date" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/ref/lesson_09_04.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/refint/lesson_09_04.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.EF_LESSONS/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_09_02/obj/Debug/net8.0/lesson_09_02.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09_02/obj/Debug/net8.0/lesson_09_02.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_09_02/obj/Debug/net8.0/lesson_09_02.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09_02/obj/Debug/net8.0/lesson_09_02.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_09_02/obj/Debug/net8.0/lesson_09_02.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09_02/obj/Debug/net8.0/lesson_09_02.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_09_04/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09_04/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09_04/obj/Debug/net8.0/lesson_09_04.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lessons/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/part2/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -186,32 +42,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.lesson_08_28.executor": "Run",
-    ".NET Project.lesson_09_02.executor": "Run",
-    ".NET Project.lesson_09_04.executor": "Debug",
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ivanushachov/Desktop/STEP/EFCore/CW/lessons",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.lesson_08_28.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.lesson_09_02.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.lesson_09_04.executor&quot;: &quot;Debug&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ivanushachov/Desktop/STEP/EFCore/CW/lessons&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/ivanushachov/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/ivanushachov/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/ivanushachov/Library/Application Support/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/ivanushachov/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/ivanushachov/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/ivanushachov/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.lesson_09_04">
     <configuration name="lesson_08_28" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -318,7 +174,7 @@
       <workItem from="1725190852889" duration="10437000" />
       <workItem from="1725288955421" duration="10085000" />
       <workItem from="1725368514428" duration="2409000" />
-      <workItem from="1725462442580" duration="9905000" />
+      <workItem from="1725462442580" duration="11479000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -328,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725462538522</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add files">
+      <option name="closed" value="true" />
+      <created>1725472788058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725472788058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,25 +204,31 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/lesson_09_04/Program.cs</url>
-          <line>30</line>
+          <line>34</line>
           <properties documentPath="$PROJECT_DIR$/lesson_09_04/Program.cs" containingFunctionPresentation="Method 'Main'">
             <startOffsets>
-              <option value="1448" />
+              <option value="1573" />
             </startOffsets>
             <endOffsets>
-              <option value="1449" />
+              <option value="1574" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Frame#lesson_09_04.Program.Main" memberName="aboutPlane" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
