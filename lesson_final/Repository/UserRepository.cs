@@ -18,24 +18,6 @@ public class UserRepository : IUser
         }
     }
 
-    public void AddUser(User user)
-    {
-        using (ApplicationContext db = Program.DbContext())
-        {
-            db.Users.Add(user);
-            db.SaveChanges();
-        }
-    }
-
-    public void RemoveUser(User user)
-    {
-        using (ApplicationContext db = Program.DbContext())
-        {
-            db.Users.Remove(user);
-            db.SaveChanges();
-        }
-    }
-
     public void UpdateUser(User user)
     {
         using (ApplicationContext db = Program.DbContext())

@@ -19,17 +19,6 @@ public class TransactionRepository : ITransaction
         }
     }
 
-    public Transaction GetTransaction(int id)
-    {
-        using (ApplicationContext db = Program.DbContext())
-        {
-            return db.Transactions
-                .Include(e => e.User)
-                .Include(e => e.Category)
-                .FirstOrDefault(e => e.Id == id);
-        }
-    }
-
     public List<Transaction> GetAllTransactionsByUserForPeriod(int id, DateTime dateFrom, DateTime dateTo)
     {
         using (ApplicationContext db = Program.DbContext())
@@ -72,24 +61,6 @@ public class TransactionRepository : ITransaction
         using (ApplicationContext db = Program.DbContext())
         {
             db.Transactions.Add(transaction);
-            db.SaveChanges();
-        }
-    }
-
-    public void RemoveTransaction(Transaction transaction)
-    {
-        using (ApplicationContext db = Program.DbContext())
-        {
-            db.Transactions.Remove(transaction);
-            db.SaveChanges();
-        }
-    }
-
-    public void UpdateTransaction(Transaction transaction)
-    {
-        using (ApplicationContext db = Program.DbContext())
-        {
-            db.Transactions.Update(transaction);
             db.SaveChanges();
         }
     }
