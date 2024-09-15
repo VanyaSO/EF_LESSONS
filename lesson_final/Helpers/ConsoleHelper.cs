@@ -12,7 +12,7 @@ public class ConsoleHelper
     /// <param name="startX">Количество отступов с левой стороны консоли</param>
     /// <param name="startY">Количество отступов с верхней стороны консоли</param>
     /// <returns></returns>
-    public static int MultipleChoice(bool canCancel, Enum userEnum, int spacingPerLine = 18, int optionsPerLine = 3,
+    public static int MultipleChoice(bool canCancel, Enum userEnum, int spacingPerLine = 22, int optionsPerLine = 3,
         int startX = 1, int startY = 1)
     {
         int currentSelection = 0;
